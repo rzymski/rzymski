@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi :wave:, my name is Peter.</h1>
+<h3 align="center">I love pizza :pizza: and programming :computer:.</h3>
+
+
+## Favourite Languages:
+[![My Skills](https://skillicons.dev/icons?i=cs,py)](https://skillicons.dev)
+
+## Used Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=java,html,js,jquery,visualstudio,pycharm,idea,vscode)](https://skillicons.dev)
 
 <!--
 **rzymski/rzymski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
