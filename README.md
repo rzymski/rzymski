@@ -5,7 +5,7 @@
 ## Favourite Languages:
 [![My Skills](https://skillicons.dev/icons?i=cs,py)](https://skillicons.dev)
 
-## Used Languages and Tools
+### Other used Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,html,js,jquery,visualstudio,pycharm,idea,vscode)](https://skillicons.dev)
 
 <!--
